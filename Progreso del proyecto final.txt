@@ -1,4 +1,4 @@
-Nos escontramos ya realizando la aprte de la administracion de la pagina, 
+Nos escontramos ya realizando la parte de la administracion de la pagina, 
 como bloquear usuarios y publicaciones, entre otras cosas.
 
 Aqui reportandose cada uno de los integrantes del grupo "Los intocables" :
